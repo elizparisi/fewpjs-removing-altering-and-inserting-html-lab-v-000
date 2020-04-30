@@ -1,3 +1,3 @@
 // Write your code here!
 
-element.remove(id="main")
+document.getElementById("main").remove()
