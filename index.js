@@ -1,3 +1,3 @@
 // Write your code here!
 
-element.remove(main)
+element.remove(id="main")
